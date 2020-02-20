@@ -583,7 +583,7 @@ main {
     -webkit-box-align: end;
     -ms-flex-align: end;
     align-items: flex-end;
-    width: 100%;
+    width: auto;
     height: 120px; }
   .main__title {
     width: 100%;
