@@ -219,14 +219,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile {
   position: relative; 
+  z-index: 1;
 }
   .mobile__menu {
     position: absolute;
     width: 100%;
     text-align: center;
-    background: #600;
+    background: #660000e0;
     padding: 10px;
-    z-index: 1; }
+    z-index: 2; }
     .mobile__menu li {
       margin: 10px; }
       .mobile__menu li a {
